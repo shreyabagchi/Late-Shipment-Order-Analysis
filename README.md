@@ -1,0 +1,5 @@
+# Late-Shipment-Order-Analysis
+
+Church and Dwight, which is one of the leading CPG manufacturers, while doing a sales forecasting, noticed that the forecasts have become more volatile and less accurate. For their forecasts to be accurate, they looked into the orders, requested to be delivered in a month, and found many of these orders were ‘late.
+As part of the analysis C&D wanted us to find how the late orders trend is or which customers were mainly responsible for driving maximum late orders or how the late period varies for different customers. 
+This paper will try to find if any pattern or trend exists in the late shipment order data, if there are any principle drivers of the late orders and also build a model that predict the probabilities of late shipment orders.  This analysis should help Church and Dwight to keep up with the innovation trends and be aware of the factors responsible for late shipment which eventually will help them reduce revenue losses from late orders and maintain market share in the manufacturing industry.
